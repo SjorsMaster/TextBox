@@ -1,0 +1,8 @@
+Hallo, welkom bij mijn tekst box.
+Dit is een test.
+Ik kan het hele alfabet, moet je horen, zet je schrap!
+A B C <speed=0.2f>D E F G H I J <speed=0.3f>K L M N O P Q <speed=0.2f>R S T U V <speed=0.1f>W X Y Z
+Schelden kan ik ook
+kut zooi
+hahahahahahahahaha
+okee dat was het weer voor vandaag.
